@@ -12,7 +12,7 @@ import (
 
 const (
 	port = "8080"
-	url  = "ws://irdaislakhuafa.ngadem.in:" + port
+	url  = "wss://socket.pasino.com/dice/"
 )
 
 func main() {
